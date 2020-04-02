@@ -1,0 +1,18 @@
+all login details for E-NEWS --->
+
+
+Super-Admin:->
+
+username: superadmin
+password: superadmin
+
+Admin:->
+
+username: jay
+password: adminpass
+
+User:->
+
+username: user
+password: userpass 
+
